@@ -1,0 +1,11 @@
+# Requirements for AI Chatbot (Frontend Project)
+
+# Tools/APIs Used
+Wit.ai account (https://wit.ai/)
+Wit.ai Server Access Token (replace in script.js)
+
+# Optional (for development)
+Web Browser (Chrome, Firefox, Edge, etc.)
+
+# Note: No Python or Node.js packages required.
+# This project runs entirely in the browser using HTML, CSS, and JS.
