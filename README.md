@@ -38,13 +38,6 @@ This chatbot understands the following intents (trained using Wit.ai):
 | `thanks`      | "thanks", "thank you"     | "You're welcome!"                    |
 | `fallback`    | (unrecognized intent)     | "Sorry, I didn't understand that."   |
 
----
-
-##  Project Structure
-
-├── index.html # Chatbot UI
-├── style.css # Styling (chat layout, dark mode, chat bubbles)
-└── script.js # Logic + Wit.ai integration
 
 ---
 
@@ -52,7 +45,7 @@ This chatbot understands the following intents (trained using Wit.ai):
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/Raagesh-A02/ai-chatbot.git
+   git clone https://github.com/Raagesh-A02/ChatBot-Wit.ai.git
 2. Open index.html in any web browser.
 
 3. Chat with the bot!
