@@ -36,7 +36,7 @@ This chatbot understands the following intents (trained using Wit.ai):
 | `help`        | "what can you do?"        | "I can help with greetings, etc."    |
 | `name`        | "what's your name?"       | "I'm your AI chatbot, created by Raagesh!" |
 | `thanks`      | "thanks", "thank you"     | "You're welcome!"                    |
-| `fallback`    | (unrecognized intent)     | "Sorry, I didn't understand that."   |
+| `kind`    | (unrecognized intent)     | "Sorry, I didn't understand that."   |
 
 
 ---
